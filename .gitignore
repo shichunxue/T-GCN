@@ -1,0 +1,9 @@
+/env/
+/out/
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/.gitignore
+/.idea/compiler.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/T-GCN.iml
+/.idea/vcs.xml
